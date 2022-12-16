@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Carlos
-- 👀 I’m interested in BackEnd Development and QA
-- 🌱 I’m currently learning Java, SpringBoot and also about REST API
+- 👀 I’m interested in QA and BackEnd Development
+- 🌱 I’m currently participating in the Bootcamp 2022 Test Automator / QA
 - 💞️ I’m looking to collaborate on Java Projects so I can learn and improve my skills, to contribute more and more to the project
 - 📫 How to reach me: jcsantahurtado@gmail.com
 
